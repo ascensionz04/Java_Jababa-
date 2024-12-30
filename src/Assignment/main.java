@@ -4,14 +4,12 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-
-
+//what the fuck
 public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         Student oneStudent = new Student();
-
         //System.out.println(oneStudent.toString());
 
         System.out.print("Email: ");
